@@ -1,4 +1,5 @@
 {
     "name": "assouan/project",
-    "type": "project"
+    "type": "project",
+    "license": "proprietary"
 }
